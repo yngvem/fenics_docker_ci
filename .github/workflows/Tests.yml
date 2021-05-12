@@ -9,5 +9,5 @@ jobs:
                 steps:
                         name: Test with pytest
                 run:
-                        python3 -m pytest
+                        - python3 -m pytest
 
